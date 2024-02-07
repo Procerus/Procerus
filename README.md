@@ -1,5 +1,5 @@
 <h> Hello </h>
-I'm Lucas, a Bachelor in Mathematics and Physics at UW-Eau Claire. I am interested in opportunities in Software Development or in Data Analysis. 
+I'm Lucas, a Bachelor in Mathematics and Physics currently working on a Masters of Computer Science.
 
 📫 How to reach me: 
 
@@ -7,9 +7,8 @@ I'm Lucas, a Bachelor in Mathematics and Physics at UW-Eau Claire. I am interest
 
 🔭 I’m currently working with web applications using Python and Flask.
 
- 🌱I am currently learning Django
+I am currently working at Producers National Corp as a Sr. Developer.
 
-Check out my [website](http://lucasmichaeldahl.com/resume).
 
 <p align="left">
 	<a href="https://github.com/Procerus"></a>
