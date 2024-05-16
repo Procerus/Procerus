@@ -1,5 +1,5 @@
 <h> Hello </h>
-I'm Lucas, a Bachelor in Mathematics and Physics currently working on a Masters of Computer Science.
+I'm Lucas, I have a Bachelor in Mathematics and Physics have a Masters in Computer Science.
 
 📫 How to reach me: 
 
